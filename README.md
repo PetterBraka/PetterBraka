@@ -38,7 +38,7 @@
 <br />
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PetterBraka&layout=compact&theme=dark)](https://github.com/PetterBraka)
 <br />
-<img align="left" alt="PetterBraka's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=PetterBraka&show_icons=true&hide_border=true&hide=stars&count_private=false&theme=dark"/>
+[<img align="left" alt="PetterBraka's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=PetterBraka&show_icons=true&hide_border=true&hide=stars&count_private=false&theme=dark&include_all_commits=true"/>]([github])
 
 [website]: https://braka.online
 [Twitter]: https://twitter.com/PetterBraka
