@@ -15,12 +15,12 @@
 <br />
 
 ### Languages:
-<img align="left" alt="Swift & SwiftUI" width="30px" src="https://img.icons8.com/ios-filled/100/000000/swift.png"/>
-<img align="left" alt="Java" width="30px" src="https://img.icons8.com/ios/100/000000/java-coffee-cup-logo.png"/>
-<img align="left" alt="C#" width="30px" src="https://img.icons8.com/ios-filled/100/000000/c-sharp-logo.png"/>
-<img align="left" alt="Phyton" width="30px" src="https://img.icons8.com/ios-filled/100/000000/python.png"/>
-<img align="left" alt="MySQL" width="30px" src="https://img.icons8.com/ios-filled/100/000000/mysql.png" />
-<br />
+[<img align="left" alt="Swift & SwiftUI" width="30px" src="https://img.icons8.com/ios-filled/100/000000/swift.png"/>][swift-project]
+[<img align="left" alt="Java" width="30px" src="https://img.icons8.com/ios/100/000000/java-coffee-cup-logo.png"/>][java-project]
+[<img align="left" alt="C" width="30px" src="https://img.icons8.com/ios-filled/100/000000/circled-c.png"/>][C-project]
+[<img align="left" alt="arduino" width="30px" src="https://img.icons8.com/ios-filled/100/000000/arduino.png"/>][ardoino-project]
+[<img align="left" alt="Phyton" width="30px" src="https://img.icons8.com/ios-filled/100/000000/python.png"/>][github]
+[<img align="left" alt="MySQL" width="30px" src="https://img.icons8.com/ios-filled/100/000000/mysql.png"/>][mySQL-project]
 <br />
 
 ### Tools:
@@ -44,3 +44,9 @@
 [Twitter]: https://twitter.com/PetterBraka
 [linkedin]: https://www.linkedin.com/in/petter-vang-brakalsvålet-a83244118/
 [github]: https://github.com/PetterBraka/reHydrate
+[swift-project]: https://github.com/PetterBraka/reHydrate
+[java-project]: https://github.com/PetterBraka/CS12320-Solitaire
+[C-project]: https://github.com/PetterBraka/Maze-solving-robot
+[ardoino-project]: https://github.com/PetterBraka/Barcode-reading-robot
+[mySQL-project]: https://github.com/PetterBraka/CS27020-watersport
+[python-project]: https://github.com/PetterBraka/reHydrate
