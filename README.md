@@ -27,7 +27,7 @@
 <img align="left" alt="C#" width="30px" src="https://img.icons8.com/ios-filled/100/000000/c-sharp-logo.png"/>
 <img align="left" alt="Phyton" width="30px" src="https://img.icons8.com/ios-filled/100/000000/python.png"/>
 <img align="left" alt="MySQL" width="30px" src="https://img.icons8.com/ios-filled/100/000000/mysql.png" />
-
+<br />
 <br />
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PetterBraka&layout=compact&theme=graywhite)](https://github.com/PetterBraka)
@@ -40,7 +40,7 @@
 <img align="left" alt="GitHub" width="30px" src="https://img.icons8.com/ios-filled/100/000000/github.png" />
 <img align="left" alt="Git" width="30px" src="https://img.icons8.com/ios-filled/100/000000/git.png" />
 <img align="left" alt="Visual Studio" width="30px" src="https://img.icons8.com/ios-filled/100/000000/visual-studio-logo.png"/>
-
+<br />
 <br />
 
 <img align="left" alt="PetterBraka's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=PetterBraka&show_icons=true&hide_border=true&hide=stars&count_private=false&theme=graywhite" />
