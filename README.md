@@ -6,9 +6,6 @@
 - 💬 Ask me about anything im happy to help if i can
 - 📫 How to reach me: [Twitter]
 
-### My current projects:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PetterBraka&repo=reHydrate&theme=dark)](https://github.com/PetterBraka/reHydrate)
-
 ### Connect with me:
 
 [<img align="left" alt="braka.online" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -26,8 +23,6 @@
 <br />
 <br />
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PetterBraka&layout=compact&theme=dark)](https://github.com/PetterBraka)
-
 ### Tools:
 <img align="left" alt="Xcode" width="30px" src="https://img.icons8.com/ios-filled/100/000000/xcode.png"/>
 <img align="left" alt="Affinity" width="30px" src="https://img.icons8.com/ios-filled/100/000000/affinity-photo.png"/>
@@ -38,8 +33,14 @@
 <br />
 <br />
 
-<img align="left" alt="PetterBraka's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=PetterBraka&show_icons=true&hide_border=true&hide=stars&count_private=false&theme=dark" />
+### My current projects:
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PetterBraka&repo=reHydrate&theme=dark)](https://github.com/PetterBraka/reHydrate)
+<br />
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PetterBraka&layout=compact&theme=dark)](https://github.com/PetterBraka)
+<br />
+<img align="left" alt="PetterBraka's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=PetterBraka&show_icons=true&hide_border=true&hide=stars&count_private=false&theme=dark"/>
 
 [website]: https://braka.online
 [Twitter]: https://twitter.com/PetterBraka
 [linkedin]: https://www.linkedin.com/in/petter-vang-brakalsvålet-a83244118/
+[github]: https://github.com/PetterBraka/reHydrate
