@@ -25,10 +25,11 @@
 
 ### Tools:
 <img align="left" alt="Xcode" width="30px" src="https://img.icons8.com/ios-filled/100/000000/xcode.png"/>
-<img align="left" alt="Affinity" width="30px" src="https://img.icons8.com/ios-filled/100/000000/affinity-photo.png"/>
 <img align="left" alt="Stack-Owerflow" width="30px" src="https://img.icons8.com/ios-filled/100/000000/stackoverflow.png"/>
 <img align="left" alt="GitHub" width="30px" src="https://img.icons8.com/ios-filled/100/000000/github.png" />
 <img align="left" alt="Git" width="30px" src="https://img.icons8.com/ios-filled/100/000000/git.png" />
+<img align="left" alt="Sketch" width="30px" src="https://img.icons8.com/carbon-copy/100/000000/sketch.png"/>
+<img align="left" alt="Affinity" width="30px" src="https://img.icons8.com/ios-filled/100/000000/affinity-photo.png"/>
 <img align="left" alt="Visual Studio" width="30px" src="https://img.icons8.com/ios-filled/100/000000/visual-studio-logo.png"/>
 <br />
 <br />
