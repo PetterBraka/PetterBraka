@@ -33,9 +33,7 @@
 <br />
 <br />
 
-### My current projects:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PetterBraka&repo=reHydrate&theme=dark)][swift-project]
-<br />
+### My stats:
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PetterBraka&layout=compact&theme=dark)][github]
 <br />
 [<img align="left" alt="PetterBraka's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=PetterBraka&show_icons=true&hide_border=true&hide=stars&count_private=true&theme=dark"/>][github]
