@@ -1,6 +1,6 @@
 ### Hi there I'm Petter braka - [Braka.Online][website]
 
-## I'm Developer!
+## I'm Self-taught Developer!
 - 🔭 I’m currently working on creating mobile apps
 - 🌱 I’m currently learning Swift and SwitUI
 - 💬 Ask me about anything im happy to help if i can
@@ -33,7 +33,7 @@
 <br />
 <br />
 
-### My stats:
+### My Stats:
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PetterBraka&layout=compact&theme=dark)][github]
 <br />
 [<img align="left" alt="PetterBraka's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=PetterBraka&show_icons=true&hide_border=true&hide=stars&count_private=true&theme=dark"/>][github]
