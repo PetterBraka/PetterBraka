@@ -1,7 +1,7 @@
 ### Hi there I'm Petter braka - [Braka.Online][website]
 
 ## I'm Self-taught Developer!
-- 🔭 I’m currently working on creating mobile apps
+- 🔭 I’m currently working on creating iOS apps 
 - 🌱 I’m currently learning Swift and SwitUI
 - 💬 Ask me about anything im happy to help if i can
 - 📫 How to reach me: [Twitter]
