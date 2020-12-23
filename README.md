@@ -1,4 +1,4 @@
-### Hi there I'm Petter braka - [Braka.Online][website]
+### Hi there I'm Petter braka - [Braka][website]
 
 ## I'm Self-taught Developer!
 - 🔭 I’m currently working on creating iOS apps 
@@ -39,7 +39,7 @@
 <br />
 [<img align="left" alt="PetterBraka's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=PetterBraka&show_icons=true&hide_border=true&hide=stars&count_private=true&theme=dark"/>][github]
 
-[website]: https://braka.online
+[website]: https://petterbraka.github.io/LinkTree/
 [Twitter]: https://twitter.com/PetterBraka
 [linkedin]: https://www.linkedin.com/in/petter-vang-brakalsvålet-a83244118/
 [github]: https://github.com/PetterBraka/reHydrate
