@@ -37,7 +37,7 @@
 ### My Stats:
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PetterBraka&layout=compact&theme=dark)][github]
 <br />
-[<img align="left" alt="PetterBraka's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=PetterBraka&show_icons=true&hide_border=true&hide=stars&count_private=true&theme=dark"/>][github]
+[![PetterBraka's Github Stats](https://github-readme-stats.vercel.app/api?username=PetterBraka&show_icons=true&hide_border=true&hide=stars&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://petterbraka.github.io/LinkTree/
 [Twitter]: https://twitter.com/PetterBraka
